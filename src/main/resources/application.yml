@@ -1,0 +1,17 @@
+
+message: You can get the reference guide at the following link in YML
+---
+spring:
+  profiles: dev
+  
+debug: true  
+server:
+  port: 9797
+
+message: You can get the reference guide at the following link in YML
+
+
+---
+spring:
+   profiles: QA
+    
